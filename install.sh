@@ -1,0 +1,1 @@
+echo "jmj settings file"
